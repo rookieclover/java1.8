@@ -1,0 +1,7 @@
+CONTROLLER_IP=192.168.3.227
+CONTROLLER_PORT=9800
+SERVER_LIST_CONFIG=/usr/local/search/indexserver.properties
+CLIENT_SIGN=COMPANY_0001_192.168.3.62
+QUERY_RULE_CLASS_NAME=cn.b2b.index.product.create.rule.ProductDefaultRule
+MEMCACHE_CONFIG_FILE=/app/search/app/product/idfmemcache.properties
+IDF_MEMCACHE_TYPE=2

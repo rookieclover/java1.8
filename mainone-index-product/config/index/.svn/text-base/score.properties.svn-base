@@ -1,0 +1,5 @@
+default=cn.b2b.index.product.index.score.ProductDefaultScorer
+0=cn.b2b.index.product.index.score.ProductDefaultScorer
+1=cn.b2b.index.product.index.score.ProductMemLevelScorer
+2=cn.b2b.index.product.index.score.ProductSimilarScorer
+3=cn.b2b.index.product.index.score.ProductInTimeScorer

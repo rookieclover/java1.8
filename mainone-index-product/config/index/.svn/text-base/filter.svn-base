@@ -1,0 +1,6 @@
+DEFAULT=cn.b2b.index.product.index.queryfilter.ProductBasicQueryFilter
+title=cn.b2b.index.product.index.queryfilter.TitleQueryFilter
+tradeid=cn.b2b.index.product.index.queryfilter.TradeIDQueryFilter
+industryid=cn.b2b.index.product.index.queryfilter.IndustryIDQueryFilter
+keyword=cn.b2b.index.product.index.queryfilter.KeyWordQueryFilter
+brand=cn.b2b.index.product.index.queryfilter.BrandQueryFilter
